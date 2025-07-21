@@ -1,0 +1,15 @@
+Proceso 2 iniciado
+[Proceso 2] Iteración 0, suma parcial: 2
+Proceso 1 iniciado
+[Proceso 1] Iteración 0, suma parcial: 1
+Proceso 0 iniciado
+[Proceso 0] Checkpoint cargado (iter: 20, suma: 190)
+[Proceso 0] Finalizó. Suma final: 190
+[Proceso 2] Iteración 1, suma parcial: 5
+[Proceso 1] Iteración 1, suma parcial: 3
+[Proceso 2] Iteración 2, suma parcial: 9
+[Proceso 1] Iteración 2, suma parcial: 6
+[Proceso 2] Iteración 3, suma parcial: 14
+[Proceso 1] Iteración 3, suma parcial: 10
+[Proceso 2] Iteración 4, suma parcial: 20
+[Proceso 1] Iteración 4, suma parcial: 15
